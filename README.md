@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rexsana
-- 👀 I’m interested in python
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning HTML, css, JS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - via naukri
 
